@@ -1,0 +1,1027 @@
+@font-face {
+  font-family: 'csasmart';
+  src:  url('fonts/csasmart.eot?d2ruku');
+  src:  url('fonts/csasmart.eot?d2ruku#iefix') format('embedded-opentype'),
+    url('fonts/csasmart.ttf?d2ruku') format('truetype'),
+    url('fonts/csasmart.woff?d2ruku') format('woff'),
+    url('fonts/csasmart.svg?d2ruku#csasmart') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="csasmart-"], [class*=" csasmart-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'csasmart' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-size: 32px;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header-icon {
+
+  [class^="csasmart-"],
+  [class*=" csasmart-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'csasmart' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    font-size: 32px;
+    color: #016d9a;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+.dashboard-icon {
+
+  [class^="csasmart-"],
+  [class*=" csasmart-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'csasmart' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    font-size: 60px;
+    color: #67a7c2;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+
+.disabled-item {
+
+  [class^="csasmart-"],
+  [class*=" csasmart-"] {
+    color: #ccc;
+  }
+}
+
+
+.csasmart-service-contract-type:before {
+  content: "\e9cc";
+}
+.csasmart-service-contract-close:before {
+  content: "\e9ce";
+}
+.csasmart-user:before {
+  content: "\e9ed";
+}
+.csasmart-close-maintainance:before {
+  content: "\e9ec";
+}
+.csasmart-Cost-Category:before {
+  content: "\e9e6";
+}
+.csasmart-Maintenance-Type1:before {
+  content: "\e9e7";
+}
+.csasmart-partial-addition-deletion-2:before {
+  content: "\e9e8";
+}
+.csasmart-role-2px1:before {
+  content: "\e9e9";
+}
+.csasmart-role-3px1:before {
+  content: "\e9ea";
+}
+.csasmart-verification-remarks-2:before {
+  content: "\e9eb";
+}
+.csasmart-choose-option-2:before {
+  content: "\e9e5";
+}
+.csasmart-verification:before {
+  content: "\e9e3";
+}
+.csasmart-verify-audit:before {
+  content: "\e9df";
+}
+.csasmart-verify-audit-close:before {
+  content: "\e9e0";
+}
+.csasmart-verify-audit-freeze:before {
+  content: "\e9e1";
+}
+.csasmart-verify-audit-process:before {
+  content: "\e9e2";
+}
+.csasmart-acknowledge-lending:before {
+  content: "\e900";
+}
+.csasmart-addon:before {
+  content: "\e901";
+}
+.csasmart-approve-popup-page:before {
+  content: "\e902";
+}
+.csasmart-asset:before {
+  content: "\e903";
+}
+.csasmart-asset-acknowledge-transfer:before {
+  content: "\e904";
+}
+.csasmart-asset-current-value:before {
+  content: "\e905";
+}
+.csasmart-asset-depreciation-1 .path1:before {
+  content: "\e906";
+  
+}
+.csasmart-asset-depreciation-1 .path2:before {
+  content: "\e907";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-depreciation-1 .path3:before {
+  content: "\e908";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-depreciation-1 .path4:before {
+  content: "\e909";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-depreciation-1 .path5:before {
+  content: "\e90a";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group .path1:before {
+  content: "\e90b";
+  
+}
+.csasmart-asset-group .path2:before {
+  content: "\e90c";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group .path3:before {
+  content: "\e90d";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group .path4:before {
+  content: "\e90e";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group .path5:before {
+  content: "\e90f";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group-link .path1:before {
+  content: "\e910";
+  
+}
+.csasmart-asset-group-link .path2:before {
+  content: "\e911";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group-link .path3:before {
+  content: "\e912";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group-link .path4:before {
+  content: "\e913";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group-link .path5:before {
+  content: "\e914";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group-link .path6:before {
+  content: "\e915";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-group-link .path7:before {
+  content: "\e916";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-in-use .path1:before {
+  content: "\e917";
+  
+}
+.csasmart-asset-in-use .path2:before {
+  content: "\e918";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-in-use .path3:before {
+  content: "\e919";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-in-use .path4:before {
+  content: "\e91a";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-in-use .path5:before {
+  content: "\e91b";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-in-use .path6:before {
+  content: "\e91c";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-lease:before {
+  content: "\e91d";
+}
+.csasmart-asset-lending:before {
+  content: "\e91e";
+}
+.csasmart-asset-lending-acknowledge:before {
+  content: "\e91f";
+}
+.csasmart-asset-link-unlink .path1:before {
+  content: "\e920";
+  
+}
+.csasmart-asset-link-unlink .path2:before {
+  content: "\e921";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-link-unlink .path3:before {
+  content: "\e922";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-link-unlink .path4:before {
+  content: "\e923";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-link-unlink .path5:before {
+  content: "\e924";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-management-group .path1:before {
+  content: "\e925";
+  
+}
+.csasmart-asset-management-group .path2:before {
+  content: "\e926";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-management-group .path3:before {
+  content: "\e927";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-management-group .path4:before {
+  content: "\e928";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-management-group .path5:before {
+  content: "\e929";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-management-group .path6:before {
+  content: "\e92a";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-management-group .path7:before {
+  content: "\e92b";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-management-group .path8:before {
+  content: "\e92c";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-query:before {
+  content: "\e92d";
+}
+.csasmart-asset-return:before {
+  content: "\e92e";
+}
+.csasmart-asset-splitup:before {
+  content: "\e92f";
+}
+.csasmart-asset-splitup-old:before {
+  content: "\e930";
+}
+.csasmart-asset-type .path1:before {
+  content: "\e931";
+  
+}
+.csasmart-asset-type .path2:before {
+  content: "\e932";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-type .path3:before {
+  content: "\e933";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-type .path4:before {
+  content: "\e934";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-type .path5:before {
+  content: "\e935";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-type-old .path1:before {
+  content: "\e936";
+  
+}
+.csasmart-asset-type-old .path2:before {
+  content: "\e937";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-under-transaction .path1:before {
+  content: "\e938";
+  
+}
+.csasmart-asset-under-transaction .path2:before {
+  content: "\e939";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-under-transaction .path3:before {
+  content: "\e93a";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-under-transaction .path4:before {
+  content: "\e93b";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-under-transaction .path5:before {
+  content: "\e93c";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-under-transaction .path6:before {
+  content: "\e93d";
+  margin-left: -1em;
+  
+}
+.csasmart-asset-under-transaction .path7:before {
+  content: "\e93e";
+  margin-left: -1em;
+  
+}
+.csasmart-assetwise-depreciation-method:before {
+  content: "\e93f";
+}
+.csasmart-assign-licenses:before {
+  content: "\e940";
+}
+.csasmart-audit:before {
+  content: "\e941";
+}
+.csasmart-audit-trail:before {
+  content: "\e942";
+}
+.csasmart-auto-generation-setup:before {
+  content: "\e943";
+}
+.csasmart-auto-reconciliation:before {
+  content: "\e944";
+}
+.csasmart-branch:before {
+  content: "\e945";
+}
+.csasmart-branch-shift-link:before {
+  content: "\e946";
+}
+.csasmart-calculate-depreciation .path1:before {
+  content: "\e947";
+  
+}
+.csasmart-calculate-depreciation .path2:before {
+  content: "\e948";
+  margin-left: -1em;
+  
+}
+.csasmart-calculate-depreciation .path3:before {
+  content: "\e949";
+  margin-left: -1em;
+  
+}
+.csasmart-calculate-depreciation .path4:before {
+  content: "\e94a";
+  margin-left: -1em;
+  
+}
+.csasmart-calculate-depreciation .path5:before {
+  content: "\e94b";
+  margin-left: -1em;
+  
+}
+.csasmart-calculate-depreciation .path6:before {
+  content: "\e94c";
+  margin-left: -1em;
+  
+}
+.csasmart-checklist:before {
+  content: "\e94d";
+}
+.csasmart-child-asset .path1:before {
+  content: "\e94e";
+  
+}
+.csasmart-child-asset .path2:before {
+  content: "\e94f";
+  margin-left: -1em;
+  
+}
+.csasmart-child-asset .path3:before {
+  content: "\e950";
+  margin-left: -1em;
+  
+}
+.csasmart-child-asset .path4:before {
+  content: "\e951";
+  margin-left: -1em;
+  
+}
+.csasmart-child-asset .path5:before {
+  content: "\e952";
+  margin-left: -1em;
+  
+}
+.csasmart-child-asset .path6:before {
+  content: "\e953";
+  margin-left: -1em;
+  
+}
+.csasmart-choose-option:before {
+  content: "\e954";
+}
+.csasmart-close-depreciation:before {
+  content: "\e955";
+}
+.csasmart-company:before {
+  content: "\e956";
+}
+.csasmart-component-1:before {
+  content: "\e957";
+}
+.csasmart-convert-to-assets .path1:before {
+  content: "\e958";
+  
+}
+.csasmart-convert-to-assets .path2:before {
+  content: "\e959";
+  margin-left: -1em;
+  
+}
+.csasmart-convert-to-assets .path3:before {
+  content: "\e95a";
+  margin-left: -1em;
+  
+}
+.csasmart-convert-to-assets .path4:before {
+  content: "\e95b";
+  margin-left: -1em;
+  
+}
+.csasmart-convert-to-assets .path5:before {
+  content: "\e95c";
+  margin-left: -1em;
+  
+}
+.csasmart-convert-to-assets .path6:before {
+  content: "\e95d";
+  margin-left: -1em;
+  
+}
+.csasmart-cost-Category:before {
+  content: "\e95e";
+}
+.csasmart-custodian .path1:before {
+  content: "\e95f";
+}
+.csasmart-custodian .path2:before {
+  content: "\e9e4";
+  margin-left: -1em;
+}
+.csasmart-custom-required-field-setup:before {
+  content: "\e960";
+}
+.csasmart-delete-calculation .path1:before {
+  content: "\e961";
+  
+}
+.csasmart-delete-calculation .path2:before {
+  content: "\e962";
+  margin-left: -1em;
+  
+}
+.csasmart-delete-calculation .path3:before {
+  content: "\e963";
+  margin-left: -1em;
+  
+}
+.csasmart-delete-calculation .path4:before {
+  content: "\e964";
+  margin-left: -1em;
+  
+}
+.csasmart-delete-calculation .path5:before {
+  content: "\e965";
+  margin-left: -1em;
+  
+}
+.csasmart-delete-calculation .path6:before {
+  content: "\e966";
+  margin-left: -1em;
+  
+}
+.csasmart-delete-calculation .path7:before {
+  content: "\e967";
+  margin-left: -1em;
+  
+}
+.csasmart-delete-calculation .path8:before {
+  content: "\e968";
+  margin-left: -1em;
+  
+}
+.csasmart-delete-calculation .path9:before {
+  content: "\e969";
+  margin-left: -1em;
+  
+}
+.csasmart-delete-calculation .path10:before {
+  content: "\e96a";
+  margin-left: -1em;
+  
+}
+.csasmart-department:before {
+  content: "\e96b";
+}
+.csasmart-depreciation-life-rate .path1:before {
+  content: "\e96c";
+  
+}
+.csasmart-depreciation-life-rate .path2:before {
+  content: "\e96d";
+  margin-left: -1em;
+  
+}
+.csasmart-depreciation-life-rate .path3:before {
+  content: "\e96e";
+  margin-left: -1em;
+  
+}
+.csasmart-depreciation-life-rate .path4:before {
+  content: "\e96f";
+  margin-left: -1em;
+  
+}
+.csasmart-depreciation-life-rate .path5:before {
+  content: "\e970";
+  margin-left: -1em;
+  
+}
+.csasmart-depreciation-life-rate .path6:before {
+  content: "\e971";
+  margin-left: -1em;
+  
+}
+.csasmart-depreciation-life-rate .path7:before {
+  content: "\e972";
+  margin-left: -1em;
+  
+}
+.csasmart-depreciation-life-rate .path8:before {
+  content: "\e973";
+  margin-left: -1em;
+  
+}
+.csasmart-depreciation-life-rate .path9:before {
+  content: "\e974";
+  margin-left: -1em;
+  
+}
+.csasmart-depreciation-reports:before {
+  content: "\e975";
+}
+.csasmart-depreciation-system:before {
+  content: "\e976";
+}
+.csasmart-dispose:before {
+  content: "\e977";
+}
+.csasmart-external-inward:before {
+  content: "\e978";
+}
+.csasmart-external-outward:before {
+  content: "\e979";
+}
+.csasmart-fixed-asset:before {
+  content: "\e97a";
+}
+.csasmart-graph:before {
+  content: "\e97b";
+}
+.csasmart-import-assets .path1:before {
+  content: "\e97c";
+  
+}
+.csasmart-import-assets .path2:before {
+  content: "\e97d";
+  margin-left: -1em;
+  
+}
+.csasmart-import-assets .path3:before {
+  content: "\e97e";
+  margin-left: -1em;
+  
+}
+.csasmart-import-assets .path4:before {
+  content: "\e97f";
+  margin-left: -1em;
+  
+}
+.csasmart-import-assets .path5:before {
+  content: "\e980";
+  margin-left: -1em;
+  
+}
+.csasmart-import-assets .path6:before {
+  content: "\e981";
+  margin-left: -1em;
+  
+}
+.csasmart-import-data:before {
+  content: "\e982";
+}
+.csasmart-import-depreciation-settings:before {
+  content: "\e983";
+}
+.csasmart-insurance:before {
+  content: "\e984";
+}
+.csasmart-insurance-2:before {
+  content: "\e985";
+}
+.csasmart-insurance-claim-1:before {
+  content: "\e986";
+}
+.csasmart-insurance-claim-2:before {
+  content: "\e987";
+}
+.csasmart-inward:before {
+  content: "\e988";
+}
+.csasmart-inward-1:before {
+  content: "\e989";
+}
+.csasmart-location:before {
+  content: "\e98a";
+}
+.csasmart-maintainance:before {
+  content: "\e98b";
+}
+.csasmart-maintainance-type:before {
+  content: "\e98c";
+}
+.csasmart-Maintenance-Type:before {
+  content: "\e98d";
+}
+.csasmart-manufacturer:before {
+  content: "\e98e";
+}
+.csasmart-opening-balance:before {
+  content: "\e98f";
+}
+.csasmart-other-asset-details .path1:before {
+  content: "\e990";
+  
+}
+.csasmart-other-asset-details .path2:before {
+  content: "\e991";
+  margin-left: -1em;
+  
+}
+.csasmart-other-asset-details .path3:before {
+  content: "\e992";
+  margin-left: -1em;
+  
+}
+.csasmart-other-asset-details .path4:before {
+  content: "\e993";
+  margin-left: -1em;
+  
+}
+.csasmart-other-asset-details .path5:before {
+  content: "\e994";
+  margin-left: -1em;
+  
+}
+.csasmart-other-asset-details .path6:before {
+  content: "\e995";
+  margin-left: -1em;
+  
+}
+.csasmart-other-asset-details .path7:before {
+  content: "\e996";
+  margin-left: -1em;
+  
+}
+.csasmart-other-asset-details .path8:before {
+  content: "\e997";
+  margin-left: -1em;
+  
+}
+.csasmart-outward:before {
+  content: "\e998";
+}
+.csasmart-outward-type:before {
+  content: "\e999";
+}
+.csasmart-parent-asset .path1:before {
+  content: "\e99a";
+  
+}
+.csasmart-parent-asset .path2:before {
+  content: "\e99b";
+  margin-left: -1em;
+  
+}
+.csasmart-parent-asset .path3:before {
+  content: "\e99c";
+  margin-left: -1em;
+  
+}
+.csasmart-parent-asset .path4:before {
+  content: "\e99d";
+  margin-left: -1em;
+  
+}
+.csasmart-parent-asset .path5:before {
+  content: "\e99e";
+  margin-left: -1em;
+  
+}
+.csasmart-parent-asset .path6:before {
+  content: "\e99f";
+  margin-left: -1em;
+  
+}
+.csasmart-partial-addition-deletion:before {
+  content: "\e9a0";
+}
+.csasmart-preferences:before {
+  content: "\e9a1";
+}
+.csasmart-print-asset-detail .path1:before {
+  content: "\e9a2";
+  
+}
+.csasmart-print-asset-detail .path2:before {
+  content: "\e9a3";
+  margin-left: -1em;
+  
+}
+.csasmart-print-asset-detail .path3:before {
+  content: "\e9a4";
+  margin-left: -1em;
+  
+}
+.csasmart-print-asset-detail .path4:before {
+  content: "\e9a5";
+  margin-left: -1em;
+  
+}
+.csasmart-print-asset-detail .path5:before {
+  content: "\e9a6";
+  margin-left: -1em;
+  
+}
+.csasmart-print-barcode-label:before {
+  content: "\e9a7";
+}
+.csasmart-print-qrcode-label:before {
+  content: "\e9a8";
+}
+.csasmart-purchase-invoice:before {
+  content: "\e9a9";
+}
+.csasmart-purge-audit-data-1 .path1:before {
+  content: "\e9aa";
+  
+}
+.csasmart-purge-audit-data-1 .path2:before {
+  content: "\e9ab";
+  margin-left: -1em;
+  
+}
+.csasmart-purge-audit-data-1 .path3:before {
+  content: "\e9ac";
+  margin-left: -1em;
+  
+}
+.csasmart-purge-audit-data-1 .path4:before {
+  content: "\e9ad";
+  margin-left: -1em;
+  
+}
+.csasmart-purge-audit-data-1 .path5:before {
+  content: "\e9ae";
+  margin-left: -1em;
+  
+}
+.csasmart-purge-audit-data-1 .path6:before {
+  content: "\e9af";
+  margin-left: -1em;
+  
+}
+.csasmart-purge-audit-data-1 .path7:before {
+  content: "\e9b0";
+  margin-left: -1em;
+  
+}
+.csasmart-purge-audit-data-1 .path8:before {
+  content: "\e9b1";
+  margin-left: -1em;
+  
+}
+.csasmart-purge-audit-data-1 .path9:before {
+  content: "\e9b2";
+  margin-left: -1em;
+  
+}
+.csasmart-reference-asset:before {
+  content: "\e9b3";
+}
+.csasmart-report:before {
+  content: "\e9b4";
+}
+.csasmart-report-pre-defined:before {
+  content: "\e9b5";
+}
+.csasmart-report-standard:before {
+  content: "\e9b6";
+}
+.csasmart-report-user-defined:before {
+  content: "\e9b7";
+}
+.csasmart-role-2px:before {
+  content: "\e9b8";
+}
+.csasmart-role-3px:before {
+  content: "\e9b9";
+}
+.csasmart-role-rights:before {
+  content: "\e9ba";
+}
+.csasmart-save-preference:before {
+  content: "\e9bb";
+}
+.csasmart-scanned-imported-assets:before {
+  content: "\e9bc";
+}
+.csasmart-scrap:before {
+  content: "\e9bd";
+}
+.csasmart-security-questions:before {
+  content: "\e9be";
+}
+.csasmart-select-column:before {
+  content: "\e9bf";
+}
+.csasmart-select-company:before {
+  content: "\e9c0";
+}
+.csasmart-select-company-branch-am-group:before {
+  content: "\e9c1";
+}
+.csasmart-select-preference:before {
+  content: "\e9c2";
+}
+.csasmart-send-custodion-ack-mail:before {
+  content: "\e9c3";
+}
+.csasmart-service-contract:before {
+  content: "\e9c4";
+}
+.csasmart-service-visit:before {
+  content: "\e9c5";
+}
+.csasmart-settings:before {
+  content: "\e9c6";
+}
+.csasmart-software-license-management:before {
+  content: "\e9c7";
+}
+.csasmart-sub-location:before {
+  content: "\e9c8";
+}
+.csasmart-system:before {
+  content: "\e9c9";
+}
+.csasmart-transaction:before {
+  content: "\e9ca";
+}
+.csasmart-transfer:before {
+  content: "\e9cb";
+}
+.csasmart-user-asset-management-group-rights:before {
+  content: "\e9cf";
+}
+.csasmart-user-branch-rights:before {
+  content: "\e9d0";
+}
+.csasmart-user-defined-field-name-setup:before {
+  content: "\e9d1";
+}
+.csasmart-user-role-rights:before {
+  content: "\e9d2";
+}
+.csasmart-vendor:before {
+  content: "\e9d3";
+}
+.csasmart-verification-action:before {
+  content: "\e9d4";
+}
+.csasmart-verification-remarks:before {
+  content: "\e9d5";
+}
+.csasmart-view-depreciation-details .path1:before {
+  content: "\e9d6";
+  
+}
+.csasmart-view-depreciation-details .path2:before {
+  content: "\e9d7";
+  margin-left: -1em;
+  
+}
+.csasmart-view-depreciation-details .path3:before {
+  content: "\e9d8";
+  margin-left: -1em;
+  
+}
+.csasmart-view-depreciation-details .path4:before {
+  content: "\e9d9";
+  margin-left: -1em;
+  
+}
+.csasmart-view-depreciation-details .path5:before {
+  content: "\e9da";
+  margin-left: -1em;
+  
+}
+.csasmart-view-depreciation-details .path6:before {
+  content: "\e9db";
+  margin-left: -1em;
+  
+}
+.csasmart-view-depreciation-details .path7:before {
+  content: "\e9dc";
+  margin-left: -1em;
+  
+}
+.csasmart-view-software-license-details:before {
+  content: "\e9dd";
+}
+.csasmart-view-software-link-detail:before {
+  content: "\e9de";
+}
